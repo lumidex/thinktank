@@ -1,2 +1,2 @@
 # thinktank
-LumiDex is a business consultancy firm that focuses on helping companies to analyze their data in order to find optimal solutions for each of their challenges.
+LumiDex ThinkTank is where analysis of company data takes place in order to find optimal solutions for each unique problem faced by our clients.
